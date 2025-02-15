@@ -1,5 +1,5 @@
 {
-  "name": "@cloudretail_/backend",
+  "name": "@cloudretail_/frontend",
   "type": "module",
   "devDependencies": {
     "typescript": "^5.7.3"
